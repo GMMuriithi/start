@@ -983,7 +983,7 @@
             <div class="col-md-4">
                 <div class="daily-deal-box animated out" data-delay="0" data-animation="fadeInUp">
                     <figure>
-                        <img src="{{ asset('images)/deal-3.jpg') }}" alt="">
+                        <img src="{{ asset('images/deal-3.jpg') }}" alt="">
                         <figcaption>
                             <label>Wooden tables</label>
                             <a class="btn off">40% OFF</a>
